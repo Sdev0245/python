@@ -12,3 +12,5 @@
     * Visit http://127.0.0.1:8000/
 
 # Final
+
+[![HitCount](http://hits.dwyl.io/Sdev0245/python.svg)](http://hits.dwyl.io/Sdev0245/python)
